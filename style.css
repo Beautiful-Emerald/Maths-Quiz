@@ -1,0 +1,35 @@
+body{
+	background-image: url("img\ gif.gif");
+    background-position: center;
+    background-size: cover;
+}
+#Login{
+background-color: darkblue;
+color:white;
+height: 35px;
+}
+#hr{
+    background-color:darkblue;
+    height:5px;
+    width:500px;
+    }
+    #hr2{
+        background-color:blue;
+        height:5px;
+        width:400px;
+        }
+        #hr3{
+            background-color:dodgerblue;
+            height:5px;
+            width:300px;
+            }
+            #hr4{
+                background-color:cornflowerblue;
+                height:5px;
+                width:200px;
+                }
+                #hr5{
+                    background-color:aqua;
+                    height:5px;
+                    width:100px;
+                    }
